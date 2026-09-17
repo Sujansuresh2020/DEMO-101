@@ -1,3 +1,3 @@
-This is to larn rebasing
+This is to learn rebasing
 
 
